@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+node_modules/
+.idea/
+.vscode/
+*.sqlite3
+.DS_Store
+/frontend/dist/
+VIKMO_DealerDesk_Assignment.pdf
